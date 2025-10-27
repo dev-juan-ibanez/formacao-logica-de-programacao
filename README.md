@@ -6,20 +6,19 @@ Repositório com os resultados em código dos desafios da **Formação Lógica d
 
 ### 1️⃣ **Desafio Classificador de Nível de Herói**
 **Arquivo:** `desafio-1.js`  
-**Descrição:** Sistema completo de RPG onde o herói evolui através de batalhas, compra equipamentos e enfrenta bosses em diferentes níveis de dificuldade.
-
-**Características:**
-- 🎮 Sistema de progressão por níveis (Ferro → Radiante)
-- ⚔️ Batalhas contra monstros e bosses
-- 🛒 Loja com equipamentos por nível
-- 🏃‍♂️ Mecânica de fuga estratégica
-- 🐉 Boss final (Dragão Ancião) para conquista do nível Radiante
-- 💰 Sistema econômico balanceado
 
 **Como executar:**
 ```bash
 node desafio-1.js
 ```
+
+### 2️⃣ **Calculadora de partidas Rankeadas**
+**Arquivo:** `desafio-2.js`  
+**Como executar:**
+```bash
+node desafio-2.js
+```
+
 ### 🎯 Próximos Desafios
 Em breve novos desafios serão adicionados...
 
