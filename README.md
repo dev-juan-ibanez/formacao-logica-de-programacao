@@ -73,5 +73,8 @@ formacao-logica-de-programacao/
 - Manipulação de arrays e objetos;
 - Algoritmos de game design.
 
+## 📜 Licença
+Este projeto está licenciado sob a Licença MIT.
+
 **Desenvolvido como parte da Formação Lógica de Programação da DIO 🎓**
 
